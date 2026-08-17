@@ -214,5 +214,6 @@
     "gameUrl": "files/ClusterTruck/ClusterTruck.html",
     "imageUrl": "img/ClusterTruck.png",
     "porter": "NotRexed"
+    "featured": true
   }
 ]
