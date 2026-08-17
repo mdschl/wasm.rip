@@ -201,11 +201,18 @@
     "porter": "shxyder",
     "featured": true
   },
-    {
+  {
     "id": 30,
     "name": "SCP: Containment Breach",
     "gameUrl": "files/scp/index.html",
     "imageUrl": "img/scp.png",
     "porter": "q8j"
+  },
+  {
+    "id": 31,
+    "name": "ClusterTruck",
+    "gameUrl": "files/ClusterTruck/ClusterTruck.html",
+    "imageUrl": "img/ClusterTruck.png",
+    "porter": "NotRexed"
   }
 ]
