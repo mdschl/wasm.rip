@@ -211,7 +211,7 @@
   {
     "id": 31,
     "name": "ClusterTruck",
-    "gameUrl": "files/ClusterTruck/ClusterTruck.html",
+    "gameUrl": "files/ClusterTruck/clustertruck.html",
     "imageUrl": "img/ClusterTruck.png",
     "porter": "NotRexed",
     "featured": true
